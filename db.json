@@ -1,0 +1,130 @@
+{
+  "icons": [
+    {
+      "id": "30b1",
+      "name": "teste",
+      "preco": "600",
+      "category": {
+        "id": "3",
+        "name": "Home"
+      }
+    },
+    {
+      "id": "911b",
+      "name": "teste3",
+      "preco": "1",
+      "category": {
+        "id": "2",
+        "name": "Notificação"
+      }
+    },
+    {
+      "id": "ab89",
+      "name": "teste4",
+      "preco": "4",
+      "category": {
+        "id": "2",
+        "name": "Notificação"
+      }
+    },
+    {
+      "id": "79c9",
+      "name": "teste5",
+      "preco": "9"
+    },
+    {
+      "id": "a0da",
+      "category": {
+        "id": "1",
+        "name": "Alerta"
+      },
+      "name": "teste9",
+      "preco": "6"
+    },
+    {
+      "id": "05db",
+      "name": "teste14",
+      "category": {
+        "id": "1",
+        "name": "Alerta"
+      },
+      "preco": "6"
+    },
+    {
+      "id": "7e0f",
+      "name": "teste 9",
+      "preco": "5",
+      "category": {
+        "id": "3",
+        "name": "Home"
+      }
+    },
+    {
+      "id": "5be3",
+      "name": "teste 12",
+      "preco": "7",
+      "category": {
+        "id": "2",
+        "name": "Notificação"
+      }
+    },
+    {
+      "id": "be9a",
+      "name": "teste 11",
+      "preco": "60",
+      "category": {
+        "id": "2",
+        "name": "Notificação"
+      }
+    },
+    {
+      "id": "eb16",
+      "name": "teste 16",
+      "preco": "40",
+      "category": {
+        "id": "3",
+        "name": "Home"
+      }
+    },
+    {
+      "id": "e088",
+      "name": "teste 18",
+      "preco": "6",
+      "category": {
+        "id": "5",
+        "name": "Web"
+      }
+    },
+    {
+      "id": "b19d",
+      "name": "teste 50",
+      "preco": "90",
+      "category": {
+        "id": "4",
+        "name": "Animais"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Alerta"
+    },
+    {
+      "id": "2",
+      "name": "Notificação"
+    },
+    {
+      "id": "3",
+      "name": "Home"
+    },
+    {
+      "id": "4",
+      "name": "Animais"
+    },
+    {
+      "id": "5",
+      "name": "Web"
+    }
+  ]
+}
